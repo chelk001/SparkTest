@@ -5,6 +5,6 @@ package cn.clk.spark.scala
   */
 object Temp {
   def main(args: Array[String]): Unit = {
-    
+    print("-------------------")
   }
 }
